@@ -20,4 +20,3 @@ The goal is to clean, standardize, and explore the data to gain insights about t
 
 ---
 
-## 📂 Project Structure
